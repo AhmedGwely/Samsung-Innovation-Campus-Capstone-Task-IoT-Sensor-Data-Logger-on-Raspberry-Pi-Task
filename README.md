@@ -6,7 +6,7 @@ This repository contains the **IoT Sensor Data Logger Capstone Project** complet
 
 ---
 
-<img width="798" height="500" alt="image" src="https://github.com/user-attachments/assets/fdf654b6-6ebc-4d42-872a-d2785806bbd9" />
+<img width="705" height="405" alt="image" src="https://github.com/user-attachments/assets/d7e26a59-5b3b-468d-8491-80b865c67aad" />
 
 
 ## 📝 Project Overview
